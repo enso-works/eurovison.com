@@ -1,4 +1,4 @@
-const LISTING_URL = '';
+const LISTING_URL = 'https://www.namecheap.com/market/buynow/eurovison.com/';
 
 function App() {
   return (
